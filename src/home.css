@@ -1,0 +1,25 @@
+.image{
+    border-radius:10px;
+    object-fit: cover;
+    width:99%;
+    height:99%;
+    padding-left: 5px;padding-right: 5px;
+    position: absolute;
+    z-index:-1;
+}
+.h-container{
+    height:100vh;
+    width:100%;
+    display:flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items:center;
+    object-fit: contain;
+}
+h2{ font: italic;
+    font-size: 40px;
+    text-align: center;
+    font-family: sans-serif;
+    color:red;
+    border: black;
+}

@@ -1,0 +1,30 @@
+.form_element {
+    flex:1;
+     border-radius: 2px;
+     outline: lightcoral;
+     border: 1px solid #fff;
+     padding-bottom: 10px;
+   }
+.feildset{border-radius: 11px; height:40px;width: 150%;}
+ .heading{
+     font-size: 20px;
+     text-align: center;
+     font-family: 'Times New Roman', Times, serif;
+     font-weight: bold;
+     color:gold;
+ }
+ .label{
+    display: flex;
+    align-items: left;
+    padding-bottom:5px;
+    padding-left: 100px;
+    padding-top: 10px;
+    justify-content: left;
+    color:grey;
+    font-weight: bolder;
+}
+.input {width: 60%;
+    padding: 3px 3px 3px 3px;
+    margin: 10px 10px;
+    border: none;
+  border-bottom: 2px solid black; }

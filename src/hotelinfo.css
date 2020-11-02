@@ -1,0 +1,27 @@
+.headingss{
+    color:goldenrod;
+    font-size: 40px;
+    font-weight: bolder;
+    padding-bottom: 10px;
+}
+
+.imgs{
+    height:30%;
+    width:30%;
+    border-radius: 5px;
+}
+
+.imgs:hover{
+    transform: scale(1.1);
+}
+
+.info{
+    padding-top:10px;
+    font-size:20px;
+    color:goldenrod;
+
+}
+.adrs{
+    color:red;
+   
+}
