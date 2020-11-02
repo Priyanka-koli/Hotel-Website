@@ -1,2 +1,2 @@
-# Hotel-Website-
+# Hotel-Website
 (ReactJS)
